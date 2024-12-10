@@ -1,4 +1,6 @@
-<h2 align="left">hi! my name is Padi, and i'm a Digital Arts student, from Gauteng <br>∞ ☼｡𖦹 ° . ⋆♡</h2>
+<h2 align="left">hi! my name is Padi, and i'm a Digital Arts student, from Gauteng... <br>  find my repositories with projects below.∞ ☼｡𖦹 ° . ⋆♡ </h2>   
+
+
 
 ###
 
