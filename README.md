@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/padi-maifala" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://padifalass.itch.io/" target="_blank">
+  <a href="http://padifalass.itch.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FF85A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Itch.io logo" />
   </a>
 </div>
