@@ -49,9 +49,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=padifalas&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-## My Collaborations
 
-I had the pleasure of collaborating on the Broken Bonds 3D First Person Enviromental Storytelling Game
-Which can be found on:https://github.com/padifalas/3D-FirstPerson-Enviromental-Storytelling-Game [repository]. It was a Group Project. Although the repository is currently private, I contributed to its development.
 
