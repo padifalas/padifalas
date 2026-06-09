@@ -1,53 +1,233 @@
-<h2 align="left">hi! my name is Padi, and i'm a Developer &  Digital Artist, from Gauteng... <br>  find my repositories with projects below.∞ ☼｡𖦹 ° . ⋆♡ </h2>   
+#  Hi, I'm Padi Maifala ☼｡𖦹 ° . ⋆♡
+
+### Full-Stack Developer • UI/UX Designer • Game Developer • Digital Artist
+
+I build interactive web applications, immersive games, and digital experiences that combine technical problem-solving with thoughtful design.
+
+From developing full-stack web platforms to creating multiplayer games in Unity, I enjoy bringing ideas to life through code, art, and user-centered experiences.
+
+📍 Gauteng, South Africa
+
+---
+
+## About Me
+
+I'm a multidisciplinary developer with experience across software engineering, web development, game development, UI/UX design, and digital art.
+
+My work focuses on creating engaging experiences that are both technically robust and visually compelling.
+
+### Areas of Focus
+
+ Full-Stack Web Development
+ Unity Game Development
+ UI/UX Design
+ Software Engineering
+ Digital Art & Asset Creation
+ Interactive Experiences
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"/>
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" alt="Supabase"/>
+</p>
+
+### Game Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="Unity"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"/>
+</p>
+
+### Design & Creative Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="Blender"/>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+</p>
+---
+
+# Featured Projects
+
+## Wealth Studio
+A financial education platform focused on helping users build investing knowledge through interactive learning experiences.
+
+### Highlights
+* Structured learning pathways
+* Interactive financial education
+* Modern dashboard experience
+* User progress tracking
+* Responsive design
+
+**Tech Stack:** React • TypeScript • Modern Web Technologies
+
+🔗 Repository: Add Link Here
+
+📸 Screenshot
+<p align="center">
+  <img src="YOUR_SCREENSHOT_URL" width="800"/>
+</p>
+
+---
+
+##  HireMe — AI-Powered Career Matching
+An AI-driven recruitment platform bridging the gap between South African graduates and employers. Uses Claude AI to extract skills from CVs, generate tailored cover letters, and intelligently match candidates to opportunities — while supporting inclusive hiring through BEE-aware tooling.
+
+### Highlights
+* AI skill extraction from CVs and academic transcripts
+* Smart job matching with explainable match scores (0–100%)
+* One-click applications with AI-generated cover letters
+* Dual dashboards for students and employers
+* BEE compliance filtering and diversity analytics
+* Application tracking with AI-powered rejection feedback
+
+**Tech Stack:** React • JavaScript • Firebase • Claude API (Anthropic) • CSS
+
+🔗 Repository: Add Link Here
+
+📸 Screenshot
+<p align="center">
+  <img src="YOUR_SCREENSHOT_URL" width="800"/>
+</p>
+
+## Rag Royale
+
+A competitive local multiplayer party game built in Unity where players battle through fast-paced rounds and chaotic mechanics.
+University Exam group project
+
+### Highlights
+
+* Local multiplayer gameplay
+* Arena-based combat
+* Round progression system
+* 3D visuals
+
+**Tech Stack:** Unity • C# • Blender
+
+🔗 Repository: Add Link Here
+
+🎮 Gameplay GIF
+
+<p align="center">
+  <img src="YOUR_GIF_URL" width="800"/>
+</p>
+
+---
+
+# Development Highlights
+
+* 🎮 Game Developer
+* 💻 Full-Stack Developer
+* 🎨 UI/UX Designer
+* ⚙️ Software Engineer
+* 🖌️ Digital Artist
+* 🌍 Based in South Africa
+
+---
+
+#  Currently Building
+
+### Wealth Studio
+
+Helping users learn about investing through interactive educational experiences.
 
 
+---
 
-###
+# Design & Creative Work
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+My background in digital art helps me bridge the gap between design and development.
 
-###
+### Experience Includes
 
-<div align="left">
-  <a href="https://discordapp.com/users/1211991614273093634" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-  <a href="mailto:padimmaifala@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/padi-maifala" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="http://padifalass.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FF85A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Itch.io logo" />
-  </a>
-</div>
+* UI Design
+* UX Design
+* Game Interfaces
+* Character Concepts
+* Digital Illustration
+* Blender Modeling
+* Visual Storytelling
 
+---
 
-###
+#  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padifalas&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padifalas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=padifalas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=padifalas&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=padifalas&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padifalas&layout=compact&theme=tokyonight" height="180"/>
+
 </div>
 
+---
 
+# Connect With Me
 
+<div align="left">
+  <a href="https://discordapp.com/users/1211991614273093634">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="mailto:padimmaifala@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/padi-maifala">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0A66C2&logoColor=white&style=for-the-badge"/>
+  </a>
+
+  <a href="https://padifalass.itch.io/">
+    <img src="https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&color=FA5C5C&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
+
+---
+
+### Open To Opportunities
+
+I'm interested in opportunities involving:
+
+* Software Engineering
+* Front-End Development
+* Full-Stack Development
+* Game Development
+* UI/UX Design
+* Interactive Media
+
+Feel free to explore my repositories, contribute, or reach out for collaboration opportunities.
