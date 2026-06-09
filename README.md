@@ -1,3 +1,4 @@
+
 #  Hi, I'm Padi Maifala ☼｡𖦹 ° . ⋆
 
 ### Full-Stack Developer • UI/UX Designer • Game Developer • Digital Artist
@@ -96,11 +97,11 @@ A financial education platform focused on helping users build investing knowledg
 
 **Tech Stack:** React • TypeScript • Modern Web Technologies
 
-🔗 Repository: Add Link Here
+🔗 Repository: 🔗 [AbsaNext Gen Repo](https://github.com/padifalas/AbsaNextGen)
 
-📸 Screenshot
+
 <p align="center">
-  <img src="YOUR_SCREENSHOT_URL" width="800"/>
+  <img src="https://github.com/user-attachments/assets/38d12851-3c8a-4a29-a2e2-c0296de3964f" width="500"/>
 </p>
 
 ---
@@ -120,31 +121,28 @@ An AI-driven recruitment platform bridging the gap between South African graduat
 
 🔗 Repository: Add Link Here
 
-📸 Screenshot
-<p align="center">
-  <img src="YOUR_SCREENSHOT_URL" width="800"/>
-</p>
+
 
 ## Rag Royale
 
 A competitive local multiplayer party game built in Unity where players battle through fast-paced rounds and chaotic mechanics.
-University Exam group project
+
+This was a university exam group project, where I served as the **Lead Programmer**, while also contributing to the **UI/UX design of the game experience**.
 
 ### Highlights
-
 * Local multiplayer gameplay
 * Arena-based combat
 * Round progression system
-* 3D visuals
+* 3D gameplay systems
+* Led core gameplay programming and systems architecture
+* Contributed to UI/UX design and player flow
 
 **Tech Stack:** Unity • C# • Blender
 
-🔗 Repository: Add Link Here
-
-🎮 Gameplay GIF
+🔗 Repository: [Rag Royale Repo](https://github.com/padifalas/Rag-Royale)
 
 <p align="center">
-  <img src="YOUR_GIF_URL" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a5475f56-a046-4761-8f9b-111ab9e6c134" width="500"/>
 </p>
 
 ---
