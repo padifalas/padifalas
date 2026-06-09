@@ -119,7 +119,7 @@ An AI-driven recruitment platform bridging the gap between South African graduat
 
 **Tech Stack:** React • JavaScript • Firebase • Claude API (Anthropic) • CSS
 
-🔗 Repository: Add Link Here
+🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
 
 
 
