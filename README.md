@@ -122,7 +122,7 @@ An AI-driven recruitment platform bridging the gap between South African graduat
 🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
 
 
-
+---
 ## Rag Royale
 
 A competitive local multiplayer party game built in Unity where players battle through fast-paced rounds and chaotic mechanics.
