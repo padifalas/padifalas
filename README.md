@@ -149,12 +149,12 @@ This was a university exam group project, where I served as the **Lead Programme
 
 # Development Highlights
 
-* 🎮 Game Developer
-* 💻 Full-Stack Developer
-* 🎨 UI/UX Designer
-* ⚙️ Software Engineer
-* 🖌️ Digital Artist
-* 🌍 Based in South Africa
+* Game Developer
+* Full-Stack Developer
+* UI/UX Designer
+* Software Engineer
+* Digital Artist
+* Based in South Africa
 
 ---
 
