@@ -1,4 +1,4 @@
-#  Hi, I'm Padi Maifala ☼｡𖦹 ° . ⋆♡
+#  Hi, I'm Padi Maifala ☼｡𖦹 ° . ⋆
 
 ### Full-Stack Developer • UI/UX Designer • Game Developer • Digital Artist
 
