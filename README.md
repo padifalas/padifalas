@@ -28,7 +28,70 @@ My work focuses on creating engaging experiences that are both technically robus
 
 ---
 
-# 🛠️ Tech Stack
+# Featured Projects
+
+## ABSA - Wealth Studio
+A financial education platform focused on helping users build investing knowledge through interactive learning experiences.
+
+### Highlights
+* Structured learning pathways
+* Interactive financial education
+* Modern dashboard experience
+* User progress tracking
+* Responsive design
+
+**Tech Stack:** React • TypeScript • Modern Web Technologies
+
+🔗 Repository: 🔗 [AbsaNext Gen Repo](https://github.com/padifalas/AbsaNextGen)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38d12851-3c8a-4a29-a2e2-c0296de3964f" width="500"/>
+</p>
+
+---
+
+##  HireMe — AI-Powered Career Matching (Research Project in development)
+An AI-driven recruitment platform bridging the gap between South African graduates and employers. Uses Claude AI to extract skills from CVs, generate tailored cover letters, and intelligently match candidates to opportunities — while supporting inclusive hiring through BEE-aware tooling.
+
+### Highlights
+* AI skill extraction from CVs and academic transcripts
+* Smart job matching with explainable match scores (0–100%)
+* One-click applications with AI-generated cover letters
+* Dual dashboards for students and employers
+* BEE compliance filtering and diversity analytics
+* Application tracking with AI-powered rejection feedback
+
+**Tech Stack:** React • JavaScript • Firebase • Claude API (Anthropic) • CSS
+
+🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
+
+
+---
+## Rag Royale
+
+A competitive local multiplayer party game built in Unity where players battle through fast-paced rounds and chaotic mechanics.
+
+This was a university exam group project, where I served as the **Lead Programmer**, while also contributing to the **UI/UX design of the game experience**.
+
+### Highlights
+* Local multiplayer gameplay
+* Arena-based combat
+* Round progression system
+* 3D gameplay systems
+* Led core gameplay programming and systems architecture
+* Contributed to UI/UX design and player flow
+
+**Tech Stack:** Unity • C# • Blender
+
+🔗 Repository: [Rag Royale Repo](https://github.com/padifalas/Rag-Royale)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5475f56-a046-4761-8f9b-111ab9e6c134" width="500"/>
+</p>
+
+---
+# Tech Stack
 
 ### Languages
 
@@ -83,69 +146,6 @@ My work focuses on creating engaging experiences that are both technically robus
 </p>
 ---
 
-# Featured Projects
-
-## Wealth Studio
-A financial education platform focused on helping users build investing knowledge through interactive learning experiences.
-
-### Highlights
-* Structured learning pathways
-* Interactive financial education
-* Modern dashboard experience
-* User progress tracking
-* Responsive design
-
-**Tech Stack:** React • TypeScript • Modern Web Technologies
-
-🔗 Repository: 🔗 [AbsaNext Gen Repo](https://github.com/padifalas/AbsaNextGen)
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/38d12851-3c8a-4a29-a2e2-c0296de3964f" width="500"/>
-</p>
-
----
-
-##  HireMe — AI-Powered Career Matching
-An AI-driven recruitment platform bridging the gap between South African graduates and employers. Uses Claude AI to extract skills from CVs, generate tailored cover letters, and intelligently match candidates to opportunities — while supporting inclusive hiring through BEE-aware tooling.
-
-### Highlights
-* AI skill extraction from CVs and academic transcripts
-* Smart job matching with explainable match scores (0–100%)
-* One-click applications with AI-generated cover letters
-* Dual dashboards for students and employers
-* BEE compliance filtering and diversity analytics
-* Application tracking with AI-powered rejection feedback
-
-**Tech Stack:** React • JavaScript • Firebase • Claude API (Anthropic) • CSS
-
-🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
-
-
----
-## Rag Royale
-
-A competitive local multiplayer party game built in Unity where players battle through fast-paced rounds and chaotic mechanics.
-
-This was a university exam group project, where I served as the **Lead Programmer**, while also contributing to the **UI/UX design of the game experience**.
-
-### Highlights
-* Local multiplayer gameplay
-* Arena-based combat
-* Round progression system
-* 3D gameplay systems
-* Led core gameplay programming and systems architecture
-* Contributed to UI/UX design and player flow
-
-**Tech Stack:** Unity • C# • Blender
-
-🔗 Repository: [Rag Royale Repo](https://github.com/padifalas/Rag-Royale)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a5475f56-a046-4761-8f9b-111ab9e6c134" width="500"/>
-</p>
-
----
 
 # Development Highlights
 
