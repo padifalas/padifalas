@@ -178,16 +178,16 @@ This was a university exam group project, where I served as the **Lead Programme
 
 #  Currently Building
 
-### Wealth Studio
+### HireMe (Creative Research Project)
 
-Helping users learn about investing through interactive educational experiences.
+An AI-driven recruitment platform bridging the gap between South African graduates and employers. Uses Claude AI to extract skills from CVs, generate tailored cover letters, and intelligently match candidates to opportunities — while supporting inclusive hiring through BEE-aware tooling.
 
 
 ---
 
 # Design & Creative Work
 
-My background in digital art helps me bridge the gap between design and development.
+My background in IT & digital art helps me bridge the gap between design and development.
 
 ### Experience Includes
 
