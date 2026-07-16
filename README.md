@@ -51,24 +51,6 @@ A financial education platform focused on helping users build investing knowledg
 
 ---
 
-##  HireMe — AI-Powered Career Matching (Research Project in development)
-An AI-driven recruitment platform bridging the gap between South African graduates and employers. Uses Claude AI to extract skills from CVs, generate tailored cover letters, and intelligently match candidates to opportunities — while supporting inclusive hiring through BEE-aware tooling.
-
-### Highlights
-* AI skill extraction from CVs and academic transcripts
-* Smart job matching with explainable match scores (0–100%)
-* One-click applications with AI-generated cover letters
-* Dual dashboards for students and employers
-* BEE compliance filtering and diversity analytics
-* Application tracking with AI-powered rejection feedback
-
-**Tech Stack:** React • JavaScript • Firebase • Claude API (Anthropic) • CSS
-
-🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
-
-
----
-
 ## Bug Hunter
 A dodge-the-bugs arcade game where the whole aesthetic is a metaphor for shipping software — backed by a real, tested ASP.NET Core REST API. Built solo to prove out backend engineering alongside the front-end and game work that dominates the rest of this portfolio.
 ### Highlights
@@ -83,9 +65,25 @@ A dodge-the-bugs arcade game where the whole aesthetic is a metaphor for shippin
 
 🔗 Repository: 🔗 [Bug Hunter Repo](https://github.com/padifalas/GameLeaderboardApi)
 
-<p align="center">
-  <img src="PASTE_YOUR_SCREENSHOT_URL_HERE" width="500"/>
-</p>
+<img width="1533" height="716" alt="bughunter-gameplay" src="https://github.com/user-attachments/assets/48322b98-59a0-4545-92b3-7f64c77215fb" />
+
+---
+
+##  HireMe - AI-Powered Career Matching (Research Project in development)
+An AI-driven recruitment platform bridging the gap between South African graduates and employers. Uses Claude AI to extract skills from CVs, generate tailored cover letters, and intelligently match candidates to opportunities — while supporting inclusive hiring through BEE-aware tooling.
+
+### Highlights
+* AI skill extraction from CVs and academic transcripts
+* Smart job matching with explainable match scores (0–100%)
+* One-click applications with AI-generated cover letters
+* Dual dashboards for students and employers
+* BEE compliance filtering and diversity analytics
+* Application tracking with AI-powered rejection feedback
+
+**Tech Stack:** React • JavaScript • Supabase • Gemini • Claude API (Anthropic) • CSS
+
+🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
+
 
 ---
 ## Rag Royale
