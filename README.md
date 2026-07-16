@@ -191,12 +191,11 @@ My background in IT & digital art helps me bridge the gap between design and dev
 
 ### Experience Includes
 
+* Systems Development
 * UI Design
 * UX Design
 * Game Interfaces
-* Character Concepts
 * Digital Illustration
-* Blender Modeling
 * Visual Storytelling
 
 ---
