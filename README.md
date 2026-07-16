@@ -40,7 +40,7 @@ A financial education platform focused on helping users build investing knowledg
 * User progress tracking
 * Responsive design
 
-**Tech Stack:** React • TypeScript • Modern Web Technologies
+**Tech Stack:** React • Javascript • Modern Web Technologies
 
 🔗 Repository: 🔗 [AbsaNext Gen Repo](https://github.com/padifalas/AbsaNextGen)
 
@@ -66,6 +66,26 @@ An AI-driven recruitment platform bridging the gap between South African graduat
 
 🔗 Repository: [HireMe Repo](https://github.com/padifalas/Hire-Me)
 
+
+---
+
+## Bug Hunter
+A dodge-the-bugs arcade game where the whole aesthetic is a metaphor for shipping software — backed by a real, tested ASP.NET Core REST API. Built solo to prove out backend engineering alongside the front-end and game work that dominates the rest of this portfolio.
+### Highlights
+* REST API leaderboard with tie-aware competition ranking
+* Layered backend architecture (Controllers, Services, DTOs)
+*  Docker-ready, fully documented deployment
+* Live gameplay dashboard with real-time stats
+* Functional power-up mechanics (shield, slow, bonus time)
+
+
+**Tech Stack:** C# • ASP.NET Core 8 • Entity Framework Core • JavaScript
+
+🔗 Repository: 🔗 [Bug Hunter Repo](https://github.com/padifalas/GameLeaderboardApi)
+
+<p align="center">
+  <img src="PASTE_YOUR_SCREENSHOT_URL_HERE" width="500"/>
+</p>
 
 ---
 ## Rag Royale
